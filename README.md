@@ -4,7 +4,7 @@ Welcome! I am an aspiring Security Analyst with a background in mechatronics and
 
 ## 🛠️ Certifications & Education
 * **Google Cybersecurity Professional Certificate** (In Progress)
-* **Cisco** — Intro to Cybersecurity & Intro to Packet Tracer
+* **Cisco** — Introduction to Cybersecurity & Introduction to Packet Tracer
 * **Orange Ulster BOCES** — Mechatronics & Robotic Engineering Diploma
 
 ## 📁 Hands-On Portfolio Projects
