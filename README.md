@@ -8,4 +8,4 @@ Welcome! I am an aspiring Security Analyst with a background in mechatronics and
 * **Orange Ulster BOCES** — Mechatronics & Robotic Engineering Diploma
 
 ## Hands-On Portfolio Projects
-* *(Projects and lab write-ups coming soon as I progress through Coursera and hands-on labs!)*
+* *(Projects and lab write-ups coming soon as I progress through Coursera and hands-on labs)*
