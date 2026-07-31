@@ -1,6 +1,6 @@
 Cybersecurity Portfolio & Lab Notebook 
 
-Welcome! I am an aspiring Security Analyst with a background in mechatronics and engineering, currently building practical skills in threat analysis, log inspection, and security operations.
+Welcome! This repository serves as my public lab notebook and project portfolio. Coming from an engineering and mechatronics background, I focus on practical troubleshooting and systems analysis as I build out skills in threat detection, log analysis, and security operations..
 
 ## Certifications & Education
 * **Google Cybersecurity Professional Certificate** (In Progress)
